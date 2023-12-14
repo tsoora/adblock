@@ -3,7 +3,7 @@ shinigami.moe##.recommendations > .video-bg > .container > div.justify-content-c
 
 shinigami.moe##.latest > .video-bg > .container > div.justify-content-center > div
 
-shinigami.moe##[src*="https://shinigami.sh/wp-content/uploads/2023/11/Pasang-Iklan-Anda-di-Sini.png"]
+shinigami.moe##[src*="https://shinigami.moe/wp-content/uploads/2023/11/Pasang-Iklan-Anda-di-Sini.png"]
 
 komikcast.lol###Evo
 
