@@ -1,9 +1,9 @@
 
-shinigami.sh##.recommendations > .video-bg > .container > div.justify-content-center > div
+shinigami.moe##.recommendations > .video-bg > .container > div.justify-content-center > div
 
-shinigami.sh##.latest > .video-bg > .container > div.justify-content-center > div
+shinigami.moe##.latest > .video-bg > .container > div.justify-content-center > div
 
-shinigami.sh##[src*="https://shinigami.sh/wp-content/uploads/2023/11/Pasang-Iklan-Anda-di-Sini.png"]
+shinigami.moe##[src*="https://shinigami.sh/wp-content/uploads/2023/11/Pasang-Iklan-Anda-di-Sini.png"]
 
 komikcast.lol###Evo
 
