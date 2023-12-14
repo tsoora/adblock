@@ -1,0 +1,14 @@
+
+shinigami.sh##.recommendations > .video-bg > .container > div.justify-content-center > div
+
+shinigami.sh##.latest > .video-bg > .container > div.justify-content-center > div
+
+shinigami.sh##[src*="https://shinigami.sh/wp-content/uploads/2023/11/Pasang-Iklan-Anda-di-Sini.png"]
+
+komikcast.lol###Evo
+
+copilot.microsoft.com##.preview-disclaimer,.b_wlcmTileCont
+
+www.bilibili.tv##html,header,.interactive,.interactive__actions,input.bstar-header-search-bar__input,.history__header,.bstar-sidebar:style(background-color: #000000 !important;)
+
+www.bilibili.tv##header:style(border-color: #000000 !important;)
