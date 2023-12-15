@@ -10,7 +10,7 @@
 ! -----------------------Shinigami-----------------------!
 shinigami.*##.recommendations > .video-bg > .container > div.justify-content-center > div
 shinigami.*##.latest > .video-bg > .container > div.justify-content-center > div
-shinigami.*##[src*="https://shinigami.*/wp-content/uploads/2023/11/Pasang-Iklan-Anda-di-Sini.png"]
+||https://shinigami.*/Pasang-Iklan-Anda-di-Sini.png
 
 ! -----------------------KomikCast-----------------------!
 komikcast.*###Evo
