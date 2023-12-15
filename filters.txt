@@ -10,7 +10,7 @@
 ! -----------------------Shinigami-----------------------!
 shinigami.*##.recommendations > .video-bg > .container > div.justify-content-center > div
 shinigami.*##.latest > .video-bg > .container > div.justify-content-center > div
-||https://shinigami.*/Pasang-Iklan-Anda-di-Sini.png
+shinigami.*##[alt*="Advertisement"]
 
 ! -----------------------KomikCast-----------------------!
 komikcast.*###Evo
