@@ -1,4 +1,4 @@
-! Title: Custom Filters
+! Title: Sora Filters
 ! Author: Sora
 ! GitHub issues: https://github.com/tsoora/adblock/issues
 ! GitHub pull requests: https://github.com/tsoora/adblock/pulls
