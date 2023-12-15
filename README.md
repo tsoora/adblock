@@ -1,4 +1,4 @@
-## Sora Filters AdBlock
+## Sora Adblock Filters
 
 Add this to your adblock list
 
