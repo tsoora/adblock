@@ -1,24 +1,27 @@
+! Title: Custom Filters
+! Author: Sora
+! GitHub issues: https://github.com/tsoora/adblock/issues
+! GitHub pull requests: https://github.com/tsoora/adblock/pulls
+! -------------------------------------------------------!
 
-shinigami.moe##.recommendations > .video-bg > .container > div.justify-content-center > div
+! -----------------------Shinigami-----------------------!
+shinigami.*##.recommendations > .video-bg > .container > div.justify-content-center > div
+shinigami.*##.latest > .video-bg > .container > div.justify-content-center > div
+shinigami.*##[src*="https://shinigami.*/wp-content/uploads/2023/11/Pasang-Iklan-Anda-di-Sini.png"]
 
-shinigami.moe##.latest > .video-bg > .container > div.justify-content-center > div
+! -----------------------KomikCast-----------------------!
+komikcast.*###Evo
 
-shinigami.moe##[src*="https://shinigami.moe/wp-content/uploads/2023/11/Pasang-Iklan-Anda-di-Sini.png"]
-
-komikcast.lol###Evo
-
+! ------------------------Copilot------------------------!
 copilot.microsoft.com##.preview-disclaimer,.b_wlcmTileCont
 
+! -------------------BiliBili DarkMode-------------------!
 www.bilibili.tv##html,header,.interactive,.interactive__actions,input.bstar-header-search-bar__input,.history__header,.bstar-sidebar:style(background-color: #000000 !important;)
-
 www.bilibili.tv##header:style(border-color: #000000 !important;)
-
 www.bilibili.tv##.bstar-player__main:style(position: fixed !important;z-index: 95000 !important;bottom: 0px !important;right: 0px !important;left: 0px !important;top: 0px !important;)
 
+! -----------------Youtube Video Windowed----------------!
 www.youtube.com###movie_player:style(position: fixed !important;z-index: 95000 !important;bottom: 0px !important;right: 0px !important;left: 0px !important;top: 0px !important;)
-
 www.youtube.com##.html5-video-container:style(height: 100% !important;width: 100% !important;)
-
 www.youtube.com##.html5-video-container,.html5-main-video:style(height: 100% !important;width: 100% !important;bottom: 0px !important;right: 0px !important;left: 0px !important;top: 0px !important;)
-
 www.youtube.com##.ytp-popup,.ytp-contextmenu:style(z-index: 95050 !important;)
