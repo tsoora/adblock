@@ -25,4 +25,5 @@ www.bilibili.tv##.bstar-player__main:style(position: fixed !important;z-index: 9
 www.youtube.com###movie_player:style(position: fixed !important;z-index: 95000 !important;bottom: 0px !important;right: 0px !important;left: 0px !important;top: 0px !important;)
 www.youtube.com##.html5-video-container:style(height: 100% !important;width: 100% !important;)
 www.youtube.com##.html5-video-container,.html5-main-video:style(height: 100% !important;width: 100% !important;bottom: 0px !important;right: 0px !important;left: 0px !important;top: 0px !important;)
+missav.com##.plyr--full-ui:style(position: fixed !important;z-index: 95000 !important;bottom: 0px !important;right: 0px !important;left: 0px !important;top: 0px !important;)
 www.youtube.com##.ytp-popup,.ytp-contextmenu:style(z-index: 95050 !important;)
