@@ -22,7 +22,7 @@ www.bilibili.tv##header:style(border-color: #000000 !important;)
 www.bilibili.tv##.bstar-player__main > #bilibiliPlayer[data-ui-mode*="1"]:style(position: fixed !important;z-index: 95000 !important;bottom: 0px !important;right: 0px !important;left: 0px !important;top: 0px !important;)
 
 ! -----------------Youtube Video Windowed----------------!
-www.youtube.com###full-bleed-container > #player-full-bleed-container > #player-container > #ytd-player > div > #movie_player:style(position: fixed !important;z-index: 95000 !important;bottom: 0px !important;right: 0px !important;left: 0px !important;top: 0px !important;)
+www.youtube.com###full-bleed-container > #player-full-bleed-container > #player-container > #ytd-player > div > #movie_player:style(background: #000 !important;position: fixed !important;z-index: 95000 !important;bottom: 0px !important;right: 0px !important;left: 0px !important;top: 0px !important;)
 www.youtube.com###full-bleed-container > #player-full-bleed-container > #player-container > #ytd-player > div > #movie_player > .html5-video-container:style(height: 100% !important;width: 100% !important;bottom: 0px !important;right: 0px !important;left: 0px !important;top: 0px !important;)
 www.youtube.com###full-bleed-container > #player-full-bleed-container > #player-container > #ytd-player > div > #movie_player > .html5-main-video:style(height: 100% !important;width: 100% !important;bottom: 0px !important;right: 0px !important;left: 0px !important;top: 0px !important;)
 www.youtube.com###full-bleed-container > #player-full-bleed-container > #player-container > #ytd-player > div > #movie_player > .ytp-popup,.ytp-contextmenu:style(z-index: 95050 !important;)
