@@ -6,9 +6,11 @@
 ! -------------------------------------------------------!
 
 ! -----------------------Shinigami-----------------------!
-shinigami.*##.recommendations > .video-bg > .container > div.justify-content-center > div
-shinigami.*##.latest > .video-bg > .container > div.justify-content-center > div
-shinigami.*##[alt*="Advertisement"]
+shinigamitoon.*##.recommendations > .video-bg > .container > div.justify-content-center > div
+shinigamitoon.*##.latest > .video-bg > .container > div.justify-content-center > div
+shinigamitoon.*##[alt*="Advertisement"]
+shinigamitoon.*##.lepopup-popup-overlay
+shinigamitoon.*##.lepopup-popup-container
 
 ! -----------------------KomikCast-----------------------!
 komikcast.*###Evo
